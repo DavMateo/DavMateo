@@ -60,17 +60,17 @@ class David {
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="./icons/languagesTools/postman.svg" alt="postman" width="55" height="55" align="left" /> </a>
 <a href="https://www.figma.com" target="_blank" rel="noreferrer"> <img src="./icons/languagesTools/figma.svg" alt="figma" width="55" height="55" align="left" /> </a>
 <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="./icons/languagesTools/git.svg" alt="git" width="55" height="55" align="left" /> </a>
-<a href="https://www.linux.org" target="_blank" rel="noreferrer"> <img src="./icons/languagesTools/linux.svg" alt="linux" width="55" height="55" align="left" /> </a>
+<a href="https://www.linux.org" target="_blank" rel="noreferrer"> <img src="./icons/languagesTools/linux.svg" alt="linux" width="55" height="55" align="left" /> </a> <br/><br/><br/><br/>
 
 
-<br/><br/><br/><br/>
+<br/><br/>
 ### GitHub Stats
 <a href="https://www.github.com/DavMateo">
   <img src="https://github-readme-stats.vercel.app/api?username=DavMateo&show_icons=false&theme=ambient_gradient&bg_color=55,caffbf,fdffb6&title_color=012a4a&text_color=f94144&icon_color=012a4a&custom_title=David%20Carre%C3%B1o%27s%20GitHub%20Stats" /> 
 </a>
 &nbsp;&nbsp;
 <a href="https://www.github.com/DavMateo">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavMateo&langs_count=10&layout=compact&bg_color=cae9ff&card_width=425" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavMateo&langs_count=10&layout=compact&bg_color=cae9ff&card_width=350" />
 </a>
 
 
